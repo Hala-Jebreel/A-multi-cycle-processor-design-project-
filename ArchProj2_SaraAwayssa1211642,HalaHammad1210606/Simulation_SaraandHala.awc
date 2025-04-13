@@ -1,0 +1,71 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="1068381bde48c49c7666bfec5f0a6000">Simulation_SaraandHala.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/TopLevel_TB/clk</signal>
+        <signal>/TopLevel_TB/reset</signal>
+        <signal>/TopLevel_TB/pc_out</signal>
+        <signal>/TopLevel_TB/alu_result</signal>
+        <signal>/TopLevel_TB/data_out</signal>
+        <signal>/TopLevel_TB/instruction</signal>
+        <signal>/TopLevel_TB/pcSrc</signal>
+        <signal>/TopLevel_TB/selection1</signal>
+        <signal>/TopLevel_TB/ALUop</signal>
+        <signal>/TopLevel_TB/extOp</signal>
+        <signal>/TopLevel_TB/src1</signal>
+        <signal>/TopLevel_TB/zero</signal>
+        <signal>/TopLevel_TB/carry</signal>
+        <signal>/TopLevel_TB/overflow</signal>
+        <signal>/TopLevel_TB/positive</signal>
+        <signal>/TopLevel_TB/negative</signal>
+        <signal>/TopLevel_TB/selection2</signal>
+        <signal>/TopLevel_TB/memoryData</signal>
+        <signal>/TopLevel_TB/wbData</signal>
+        <signal>/TopLevel_TB/memoryRead</signal>
+        <signal>/TopLevel_TB/memoryWrite</signal>
+        <signal>/TopLevel_TB/operand2</signal>
+        <signal>/TopLevel_TB/mode</signal>
+        <signal>/TopLevel_TB/dataSelector</signal>
+        <signal>/TopLevel_TB/stage</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="459170" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+            <bookmark value="89086"/>
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="450000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+            <signalscomment beginSigID="4294967295" beginTopParentPosID="4294967295" beginTime="219386" text="HalaHammad-1210606" anchorToMainSignal="1" />
+            <signalscomment beginSigID="4294967295" beginTopParentPosID="4294967295" beginTime="89086" text="SaraAwayssa-1211642" anchorToMainSignal="1" />
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
