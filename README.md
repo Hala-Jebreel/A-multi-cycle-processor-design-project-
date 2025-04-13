@@ -49,7 +49,7 @@ Processor Design Features
 
 The design was simulated and tested using ARC tools. All instructions executed correctly, validating the processor's ability to handle arithmetic, logic, memory, and control operations.
 
-📸 See simulation snapshots and verification details in:
+ See simulation snapshots and verification details in:
 - `PROJECT2_ARC_REPORT.pdf`
 - `Figure 10`, `11`, and `12` in the report
 
@@ -64,7 +64,7 @@ To test the design:
 4. View outputs and confirm correctness using the flags and memory/register values.
 
 
-## 📖 References
+References
 
 - [Program Counter – Techopedia](https://www.techopedia.com/definition/13114/program-counter-pc)
 - [Multiplexer – Wikipedia](https://en.wikipedia.org/wiki/Multiplexer)
