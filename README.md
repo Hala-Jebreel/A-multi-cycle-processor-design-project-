@@ -2,13 +2,13 @@
 A multi-cycle processor design project implemented and tested in ARC with simulation files, binary memory, control unit tables, and documentation. 
 
 
-# 🧠 Multi-Cycle Processor Design | ENCS4370
+ Multi-Cycle Processor Design | ENCS4370
 
 This repository contains the full implementation of a **Simple Multi-Cycle Processor**, including datapath and control unit design, binary memory initialization, simulation results, and comprehensive documentation.
 
 ---
 
-## 📚 About the Project
+ About the Project
 
 This project was developed as part of the Computer Architecture .
 
@@ -18,7 +18,7 @@ It aims to deepen understanding of processor architecture by designing a modular
 
 
 
-## 📁 Repository Contents
+Repository Contents
 
 | File / Folder                      | Description |
 |-----------------------------------|-------------|
@@ -31,7 +31,7 @@ It aims to deepen understanding of processor architecture by designing a modular
 
 ---
 
-## ⚙️ Processor Design Features
+Processor Design Features
 
 - **Multi-stage architecture**: IF, ID, EX, MEM, WB
 - **Instructions Supported**: `ADD`, `SUB`, `AND`, `ANDI`, `ADDI`, `LW`, `SW`, `LBU`, `LBS`, `BEQ`, `BNE`, `BGT`, `BLT`, `JUMP`, `CALL`, `RET`, `SV`
@@ -45,8 +45,7 @@ It aims to deepen understanding of processor architecture by designing a modular
   - Multiplexers
 
 ---
-
-## ✅ Simulation
+ Simulation
 
 The design was simulated and tested using ARC tools. All instructions executed correctly, validating the processor's ability to handle arithmetic, logic, memory, and control operations.
 
@@ -56,7 +55,7 @@ The design was simulated and tested using ARC tools. All instructions executed c
 
 ---
 
-## 📦 How to Run
+ How to Run
 
 To test the design:
 1. Load `Code.v` into ARC.
